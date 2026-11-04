@@ -14,7 +14,7 @@
     "pdf-lib": "1.17.1",
     "pdfjs-dist": "6.4.299",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz",
-    "zod": "^4.6.5"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.164",
